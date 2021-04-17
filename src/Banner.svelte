@@ -1,5 +1,5 @@
 <header>
-  <h1>Lemmikki-Info</h1>
+  <h1>Edited for Netlify usage</h1>
 </header>
 
 <style>
